@@ -1,5 +1,5 @@
 //alert("Hello Javascript")
-//To debug shift+ctrl+i
+//To debug shift+ctrl+i and to write a code is ctrl+l
 let a = 20
 if(a > 5)
 {
