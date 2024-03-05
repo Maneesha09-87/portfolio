@@ -122,4 +122,11 @@ else{
 //DOM
 /* DOCUMENT OBJECT MODEL
 dom refers to html to access and update the content and style of a document
- */
+ dom refers to your html in javascript
+window.document*/
+let yoda=document.querySelector('#master-yoda')
+console.log(yoda)
+let parrot=document.querySelector('div')
+console.log(parrot)
+let rocket=document.querySelector('[data-type="rockets"]')
+console.log(parrot)
